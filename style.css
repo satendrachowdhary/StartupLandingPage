@@ -9,10 +9,7 @@ body {
   height: 100%;
   font-family: "Montserrat", sans-serif;
 }
-.container {
-  display: flex;
-  justify-content: center;
-}
+
 h1 {
   font-size: 3rem;
   color: #09c;
